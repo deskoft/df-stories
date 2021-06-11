@@ -1,6 +1,6 @@
 This is the first fully roleplayed story that I will tell.
 
-*Todicamade* is the world of the file; if I enjoy the story I am writing, the idea is to not just limit myself to a single settlement, but immerse ourselves into the lore within this randomly generated lore that Dwarf Fortress tossed at us.
+*Todicamade* is the name of the world; if I enjoy the story I am writing, the idea is to not just limit myself to a single settlement, but immerse ourselves into the lore within this randomly generated lore that Dwarf Fortress tossed at us.
 
 Here are a few rules or guidlines I will follow:
 
@@ -10,3 +10,23 @@ Here are a few rules or guidlines I will follow:
 - We are tracking conversations that dwarves have in an attempt to fully immerse ourselves. Ideally, we will not miss anything this way.
 - Do not expect a fast-paced Let's Play. This will be a slow Let's Play, giving you a chance to fall in love with the dwarves, or respectively hate them. Think of it as a chapter of Game of Thrones.
 - We will make some meta sacrifices in lieu of simulation; do not expect to see the top-notch dwarf fortress meta skills. Expect to see Grand Halls and ample bedrooms, or random rules emerging.
+
+* The World
+
+[[file:Images/region-map.png]]
+
+* Fortress
+** Map
+
+[[file:Images/fortress1-map.png]]
+
+** Dwarf List
+| Dwarf  | Status | Profession | Notable Facts |
+|--------+--------+------------+---------------|
+| *Test* | Alive  |            |               |
+|        | Alive  |            |               |
+|        | Alive  |            |               |
+|        | Alive  |            |               |
+|        | Alive  |            |               |
+|        | Alive  |            |               |
+|        | Alive  |            |               |
