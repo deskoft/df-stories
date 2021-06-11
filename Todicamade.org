@@ -15,18 +15,38 @@ Here are a few rules or guidlines I will follow:
 
 [[file:Images/region-map.png]]
 
-* Fortress
+* Fortress: Keskaldural (Year 250)
+
+Keskaldural is our first fortress. A troupe of bards have found themselves lost in the middle of the wild. With low resources and not much chance of survival, they each discuss what they can do and decide to settle down - for the time being.
+
 ** Map
 
 [[file:Images/fortress1-map.png]]
 
 ** Dwarf List
-| Dwarf  | Status | Profession | Notable Facts |
-|--------+--------+------------+---------------|
-| *Test* | Alive  |            |               |
-|        | Alive  |            |               |
-|        | Alive  |            |               |
-|        | Alive  |            |               |
-|        | Alive  |            |               |
-|        | Alive  |            |               |
-|        | Alive  |            |               |
+
+| Dwarf               | Status | Profession        | Notable Facts                                                                     |
+|---------------------+--------+-------------------+-----------------------------------------------------------------------------------|
+| Domas Rulushingish  | Alive  | Expedition Leader | First Expedition Leader. Non-Combatant                                            |
+| Eral Mesirral       | Alive  | Fish Cleaner      | He isn't very confident.                                                          |
+| Erush Ubbulzon      | Alive  | Stoneworker       | No-nonsense, non-combatant.                                                       |
+| Eshtan Akrulartob   | Alive  | Jeweler           | Non-combatant.                                                                    |
+| Kubuk Mishthemoslan | Alive  | Miner             | Hot-headed, bawdy, brawly, but a great miner.                                     |
+| Olon Cogubal        | Alive  | Fisherman         | Nervous.                                                                          |
+| Zuntir Suvastun     | Alive  | Woodcutter        | Connected to nature, always in love with someone, 'self-described philantropist.' |
+|                     |        |                   |                                                                                   |
+
+** Year 250
+*** 250-01-15: First Arrival (Domas Rulushingish)
+
+We have finally settled!
+
+[[file:Images/fortress1-1.png]]
+
+We're surrounded by trees everywhere, but I -really- think we can look at our situation two ways.
+
+The first one is dwelling that we're in the middle of nowhere, very far away from those we love.
+
+The second one is that we have a variety of resources at our disposal and this area gives us a decent chance of surviving.
+
+Here is a rough sketch of a rivery we found nearby - it's awfully hidden by trees and sometimes hard to find, but it's going to prove useful, no doubt.
